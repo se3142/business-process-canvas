@@ -1,0 +1,450 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument Version="1.2" ID="9643BB4B-61A8-4BDA-AD68-5D4A03216C9F">
+   <Notes>
+      <Note FontSize="12" Position="361.4,200.1" Width="53.5156" ID="121">
+         <Appearance>
+            <Alignment>Center</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Control</String>
+         <ConnectedNoteIDs>125, 127, 131-134, 137</ConnectedNoteIDs>
+         <PointsToNoteIDs>125</PointsToNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="760.3,250.1" Width="73.0469" ID="122">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Customers</String>
+         <ConnectedNoteIDs>14, 126, 128</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="37.7,250.1" Width="66.0156" ID="123">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Suppliers</String>
+         <ConnectedNoteIDs>9, 124</ConnectedNoteIDs>
+         <PointsToNoteIDs>124</PointsToNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="154.9,250.1" Width="46.4844" ID="124">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Inputs</String>
+         <ConnectedNoteIDs>10, 123, 125</ConnectedNoteIDs>
+         <PointsToNoteIDs>125</PointsToNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="338.4,250.1" Width="99.6094" ID="125">
+         <Appearance>
+            <Alignment>Center</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,12</FormatRange>
+         </Formatting>
+         <String>Process Name</String>
+         <ConnectedNoteIDs>121, 124, 126, 135-136, 138</ConnectedNoteIDs>
+         <PointsToNoteIDs>126</PointsToNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="591.6,250.1" Width="55.8594" ID="126">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Outputs</String>
+         <ConnectedNoteIDs>13, 122, 125</ConnectedNoteIDs>
+         <PointsToNoteIDs>122</PointsToNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="758.7,294.7" Width="77.7344" ID="128">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>wow effects</String>
+         <ConnectedNoteIDs>122</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="634.7,95.4" Width="191.233" ID="131">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Standards
+(also guides, rules, SOPs, methods, specifications, etc.)</String>
+         <ConnectedNoteIDs>121</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="57.4,88.0" Width="95.7031" ID="132">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Process owner</String>
+         <ConnectedNoteIDs>121</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="55.8,192.7" Width="95.7031" ID="133">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Trigger, Events</String>
+         <ConnectedNoteIDs>121</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="62.8,130.2" Width="116.797" ID="134">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Purpose 
+(Value proposition)</String>
+         <ConnectedNoteIDs>121</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="419.1,300.5" Width="118.75" ID="135">
+         <Appearance>
+            <Alignment>Center</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Risks / Mitigations</String>
+         <ConnectedNoteIDs>125</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="329.2,337.2" Width="118.75" ID="136">
+         <Appearance>
+            <Alignment>Center</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Systems &amp; Tools</String>
+         <ConnectedNoteIDs>125</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="639.4,179.4" Width="126.953" ID="137">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Performance metrics</String>
+         <ConnectedNoteIDs>121</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="237.8,294.2" Width="118.75" ID="138">
+         <Appearance>
+            <Alignment>Center</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Actors, Roles and Business functions</String>
+         <ConnectedNoteIDs>125</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="320.7,91.1" Width="129.297" ID="127">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>subprocesses / steps</String>
+         <ConnectedNoteIDs>121</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="28" Position="26.1,17.7" Width="539.844" ID="87">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,33</FormatRange>
+         </Formatting>
+         <String>Business Process Canvas - Draft 1</String>
+      </Note>
+      <Note FontSize="12" Position="1069.8,523.5" Width="48.8281" ID="0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,5</FormatRange>
+         </Formatting>
+         <String>IDEF0</String>
+      </Note>
+      <Note FontSize="12" Position="905.1,399.1" Width="40.2344" ID="2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Input</String>
+         <ConnectedNoteIDs>4, 129</ConnectedNoteIDs>
+         <PointsToNoteIDs>4</PointsToNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="976.2,238.2" Width="53.5156" ID="3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Control</String>
+         <ConnectedNoteIDs>4, 140</ConnectedNoteIDs>
+         <PointsToNoteIDs>4</PointsToNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="980.5,393.7" Width="44.9219" ID="4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>ICOM</String>
+         <ConnectedNoteIDs>2-3, 5-6</ConnectedNoteIDs>
+         <PointsToNoteIDs>5</PointsToNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="1060.6,344.4" Width="49.6094" ID="5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Output</String>
+         <ConnectedNoteIDs>4, 130</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="964.5,496.7" Width="76.9531" ID="6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>Mechanism</String>
+         <ConnectedNoteIDs>4, 139</ConnectedNoteIDs>
+         <PointsToNoteIDs>4</PointsToNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="75.3,583.8" Width="75.3906" ID="9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>S suppliers</String>
+         <ConnectedNoteIDs>123</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="159.5,583.8" Width="52.7344" ID="10">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>I inputs</String>
+         <ConnectedNoteIDs>124</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="221.0,583.8" Width="67.5781" ID="11">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>P process</String>
+      </Note>
+      <Note FontSize="12" Position="403.4,646.4" Width="115.234" ID="12">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Bold="Yes">0,15</FormatRange>
+         </Formatting>
+         <String>Six Sigma SIPOC</String>
+      </Note>
+      <Note FontSize="12" Position="297.4,583.8" Width="66.0156" ID="13">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>O outputs</String>
+         <ConnectedNoteIDs>126</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="372.2,583.8" Width="82.4219" ID="14">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>C customers</String>
+         <ConnectedNoteIDs>122</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="9" Position="240.5,334.4" Width="84.7656" ID="7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <TextColor>0.0 0.584314 0.87451</TextColor>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">0,18</FormatRange>
+         </Formatting>
+         <String>[Active Structure]</String>
+      </Note>
+      <Note FontSize="9" Position="464.3,320.3" Width="62.1094" ID="15">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <TextColor>0.219608 0.643137 0.003922</TextColor>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">0,11</FormatRange>
+         </Formatting>
+         <String>[Behaviour]</String>
+      </Note>
+      <Note FontSize="9" Position="612.0,268.8" Width="92.5781" ID="16">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <TextColor>0.568627 0.568627 0.568627</TextColor>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">0,19</FormatRange>
+         </Formatting>
+         <String>[Passive Structure]</String>
+      </Note>
+      <Note FontSize="9" Position="82.3,267.2" Width="92.5781" ID="18">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <TextColor>0.568627 0.568627 0.568627</TextColor>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">0,19</FormatRange>
+         </Formatting>
+         <String>[Passive Structure]</String>
+      </Note>
+      <Note FontSize="9" Position="412.0,111.7" Width="62.1094" ID="20">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <TextColor>0.219608 0.643137 0.003922</TextColor>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">0,11</FormatRange>
+         </Formatting>
+         <String>[Behaviour]</String>
+      </Note>
+      <Note FontSize="9" Position="122.9,211.7" Width="62.1094" ID="21">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <TextColor>0.219608 0.643137 0.003922</TextColor>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">0,11</FormatRange>
+         </Formatting>
+         <String>[Behaviour]</String>
+      </Note>
+      <Note FontSize="9" Position="362.4,354.7" Width="84.7656" ID="17">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <TextColor>0.0 0.584314 0.87451</TextColor>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">0,18</FormatRange>
+         </Formatting>
+         <String>[Active Structure]</String>
+      </Note>
+      <Note FontSize="9" Position="161.6,89.1" Width="84.7656" ID="22">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <TextColor>0.0 0.584314 0.87451</TextColor>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">0,18</FormatRange>
+         </Formatting>
+         <String>[Active Structure]</String>
+      </Note>
+      <Note FontSize="9" Position="739.3,142.6" Width="62.1094" ID="23">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <TextColor>0.219608 0.643137 0.003922</TextColor>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Italic="Yes">0,11</FormatRange>
+         </Formatting>
+         <String>[Behaviour]</String>
+      </Note>
+      <Note FontSize="12" Position="1030.7,12.9" Width="77.7344" ID="19">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>2022-10-16
+S. Korn</String>
+      </Note>
+   </Notes>
+   <BackgroundShapes>
+      <Shape Shadow="No" Height="262.885" Position="26.7,239.1" Width="186.328" Faded="No" ID="129" Sticky="Yes">
+         <Appearance>
+            <Fill>0.745098 0.984314 0.631373</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <ConnectedNoteIDs>2</ConnectedNoteIDs>
+      </Shape>
+      <Shape Shadow="No" Height="265.229" Position="567.5,239.1" Width="279.123" Faded="No" ID="130" Sticky="Yes">
+         <Appearance>
+            <Fill>0.745098 0.901961 0.996078</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <ConnectedNoteIDs>5</ConnectedNoteIDs>
+      </Shape>
+      <Shape Shadow="No" Height="217.92" Position="226.9,283.3" Width="321.875" Faded="No" ID="139" Sticky="Yes">
+         <Appearance>
+            <Fill>0.976471 0.921569 0.623529</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <ConnectedNoteIDs>6</ConnectedNoteIDs>
+      </Shape>
+      <Shape Shadow="No" Height="160.503" Position="28.5,71.6" Width="820.313" Faded="No" ID="140" Sticky="No">
+         <Appearance>
+            <Fill>0.992157 0.788235 0.796078</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <ConnectedNoteIDs>3</ConnectedNoteIDs>
+      </Shape>
+      <Shape Shadow="No" Height="341.406" Position="894.2,208.6" Width="227.734" Faded="No" ID="1" Sticky="Yes">
+         <Appearance>
+            <Fill>0.901961 0.901961 0.901961</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+      </Shape>
+      <Shape Shadow="No" Height="127.163" Position="33.1,551.7" Width="492.724" Faded="No" ID="8" Sticky="Yes">
+         <Appearance>
+            <Fill>0.901961 0.901961 0.901961</Fill>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+      </Shape>
+   </BackgroundShapes>
+   <Labels>
+      <Label IDs="126,122">delivered value</Label>
+   </Labels>
+   <AutoFit>0, 2-7, 9-23, 121-128, 132-134, 137</AutoFit>
+   <NoteStyles>
+      <Style Name="Bubble (Blue)" AffectFade="No" AffectNoteBody="Yes" AffectFontStyle="No" AffectTextColor="No" AffectSticky="No" ID="4C9DEC7D-E493-4455-82C7-48D17FCB181B" AffectAlignment="No" AffectSize="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.668971 0.810269 0.895079</BorderColor>
+         <FillColor>0.743297 0.900298 0.994537</FillColor>
+      </Style>
+      <Style Name="Bubble (Green)" AffectFade="No" AffectNoteBody="Yes" AffectFontStyle="No" AffectTextColor="No" AffectSticky="No" ID="2BA9FEFF-5DC6-4E7B-9189-10C609B02D3C" AffectAlignment="No" AffectSize="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.669413 0.885237 0.56701</BorderColor>
+         <FillColor>0.743786 0.983612 0.629999</FillColor>
+      </Style>
+      <Style Name="Bubble (Pink)" AffectFade="No" AffectNoteBody="Yes" AffectFontStyle="No" AffectTextColor="No" AffectSticky="No" ID="EB2890CE-509B-43DC-89C8-97A2A52576D0" AffectAlignment="No" AffectSize="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.98912 0.814084 1.0</FillColor>
+      </Style>
+      <Style Name="Bubble (Red)" AffectFade="No" AffectNoteBody="Yes" AffectFontStyle="No" AffectTextColor="No" AffectSticky="No" ID="459972AB-786E-486B-84FD-E0F48A7CB691" AffectAlignment="No" AffectSize="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.993942 0.786389 0.795438</FillColor>
+      </Style>
+      <Style Name="Red Text" AffectFade="No" AffectNoteBody="No" AffectFontStyle="No" AffectTextColor="Yes" AffectSticky="No" ID="304C5AC4-B1A1-46FE-B6C3-B8F89797B0E4" AffectAlignment="No" AffectSize="No">
+         <TextColor>0.985946 0.0 0.026947</TextColor>
+      </Style>
+      <Style Name="Title Text" AffectFade="No" AffectNoteBody="No" AffectFontStyle="Yes" AffectTextColor="No" AffectSticky="No" ID="D6CF4127-4BC7-4CF2-AFC2-0A21AC4B003B" AffectAlignment="Yes" AffectSize="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>28.0</FontSize>
+      </Style>
+      <Style Name="Bubble (Yellow)" AffectFade="No" AffectNoteBody="Yes" AffectFontStyle="No" AffectTextColor="No" AffectSticky="No" ID="CD03D0D8-0326-407B-B621-7EA8AA02C12E" AffectAlignment="No" AffectSize="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.877745 0.828275 0.562127</BorderColor>
+         <FillColor>0.97528 0.920302 0.624582</FillColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>1.0 0.988373 0.949905</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+   </UISettings>
+   <PrintSettings LeftMargin="12.000000" PagesDown="1" PaperSize="-1.000000,-1.000000" HorizontallyCentered="Yes" Orientation="Portrait" TopMargin="12.000000" BottomMargin="12.000000" VerticalPagination="Auto" RightMargin="12.000000" PagesAcross="1" Collates="Yes" ScaleFactor="1.000000" VerticallyCentered="Yes" HorizontalPagination="Clip" PaperType="iso-a4"/>
+</ScappleDocument>

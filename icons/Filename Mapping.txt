@@ -1,0 +1,15 @@
+BPC filename              | uxwing filename                              |
+| ----------------------- | -------------------------------------------- |
+| bpc-customers.png       | girls-icon.png                               |
+| bpc-delivered-value.png | happy-customer-icon.png                      |
+| bpc-inputs.png          | curved-arrow-right-to-bottom-ouline-icon.png |
+| bpc-outputs.png         | boxes-icon.png                               |
+| bpc-performance.png     | magnifying-glass-icon.png                    |
+| bpc-risks.png           | disclaimer-icon.png                          |
+| bpc-roles.png           | workers-icon.png                             |
+| bpc-stakeholders.png    | communities-social-networking-icon.png       |
+| bpc-standards.png       | policy-icon.png                              |
+| bpc-subprocesses.png    | career-icon.png                              |
+| bpc-suppliers.png       | factory-industry-icon.png                    |
+| bpc-tools.png           | toolbox-repairing-icon.png                   |
+| bpc-trigger.png         | flash-thunder-outline-icon.png               |
