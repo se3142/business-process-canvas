@@ -13,7 +13,7 @@
 
 ## Description
 
-The Business Process Canvas is a strategic business process management tool. It allows you to describe, design, challenge and communicate an business process.
+The Business Process Canvas is a strategic business process management tool. It allows you to describe, design, challenge and communicate a business process.
 
 A business process canvas is a high-level visual representation of the actual business process. 
 
@@ -42,17 +42,16 @@ When used in combination with the Business Model Canvas, the key activities coul
 
 1. Print canvas or use Archi template
 2. Define 'Process name'
-3. Contine to discuss, define or evaluate values for each area.
+3. Continue to discuss, define or evaluate values for each area.
 
 ## License
 
 Business Process Canvas © 2022 by Sebastian Korn is licensed under CC BY-SA 4.0 (Attribution-ShareAlike 4.0 International)  
-For more information visit https://github.com/se3142/business-process-canvas  
+For more information, visit https://github.com/se3142/business-process-canvas  
 License: https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Acknowledgements
 
-This canvas was build on methods from IDEF0, Six Sigma SIPOC and Archimate ([research notes](research/Research.pdf?raw=true)).  
-Inspired by  [Business Model Canvas](http://www.businessmodelgeneration.com). 
+This canvas was build on methods from IDEF0, Six Sigma SIPOC and Archimate ([research notes](research/Research.pdf?raw=true)) and was inspired by  [Business Model Canvas](http://www.businessmodelgeneration.com). 
 
 A different process canvas can be found at [processmodelcanvas.com](http://www.processmodelcanvas.com/).
