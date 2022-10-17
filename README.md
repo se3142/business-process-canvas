@@ -19,7 +19,7 @@ A business process canvas is a high-level visual representation of the actual bu
 
 ## Preview
 
-![Business Process Canvas Preview](Business-Process-Canvas.jpg?raw=true)
+![Business Process Canvas Preview](example.jpg?raw=true)
 
 ## Getting Started
 
